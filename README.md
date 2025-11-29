@@ -30,8 +30,9 @@ A Python implementation of the **Wumpus World** environment, where an AI agent n
 ### Running the Project
 
 1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
+```bash
+git clone <repository-url>
+```
 2.Navigate to the project folder:
 ```bash
 cd wumpus-world
@@ -50,10 +51,10 @@ world.place_gold(x, y)
 ```
 ## Example Output
 The script prints the following during execution:
--Current agent position
--Safe pits and Wumpus lists
--Grid display
--Messages when the agent falls into a pit, encounters the Wumpus, or finds the gold
+- Current agent position
+- Safe pits and Wumpus lists
+- Grid display
+- Messages when the agent falls into a pit, encounters the Wumpus, or finds the gold
 
 ## License
 This project is open-source and free to use.
